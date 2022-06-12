@@ -1,0 +1,15 @@
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\bin\Debug\net6.0\TerralinkTest.exe
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\bin\Debug\net6.0\TerralinkTest.deps.json
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\bin\Debug\net6.0\TerralinkTest.runtimeconfig.json
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\bin\Debug\net6.0\TerralinkTest.dll
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\bin\Debug\net6.0\TerralinkTest.pdb
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\obj\Debug\net6.0\TerralinkTest.csproj.AssemblyReference.cache
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\obj\Debug\net6.0\TerralinkTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\obj\Debug\net6.0\TerralinkTest.AssemblyInfoInputs.cache
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\obj\Debug\net6.0\TerralinkTest.AssemblyInfo.cs
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\obj\Debug\net6.0\TerralinkTest.csproj.CoreCompileInputs.cache
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\obj\Debug\net6.0\TerralinkTest.dll
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\obj\Debug\net6.0\refint\TerralinkTest.dll
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\obj\Debug\net6.0\TerralinkTest.pdb
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\obj\Debug\net6.0\TerralinkTest.genruntimeconfig.cache
+C:\WorkingDirectory\TerralinkTest\TerralinkTest\obj\Debug\net6.0\ref\TerralinkTest.dll
